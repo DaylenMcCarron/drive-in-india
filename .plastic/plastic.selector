@@ -1,4 +1,0 @@
-repository "Drive in India@DangerDaylen2@cloud"
-  path "/"
-    br "/main"
-    co "/main"
